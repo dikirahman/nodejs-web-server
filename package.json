@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "Belajar membuat web service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikirahman/nodejs-web-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webserver"
+  ],
+  "author": "Diki Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikirahman/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/dikirahman/nodejs-web-server#readme"
+}
